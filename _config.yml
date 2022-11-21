@@ -14,6 +14,7 @@ linkedin_username: "martin.patrick"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+site.mastodon: "@martin@glammr.us"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
